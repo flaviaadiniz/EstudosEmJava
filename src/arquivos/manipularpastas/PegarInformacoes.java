@@ -1,4 +1,4 @@
-package arquivos.manipular_pastas;
+package arquivos.manipularpastas;
 
 import java.io.File;
 import java.util.Scanner;

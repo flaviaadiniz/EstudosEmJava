@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9db1c70-75a6-4385-9675-c3b0ba87d9f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lists/exercicio1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lists/exercicio1/EmployeeTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Application/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Entities/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Entities/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Entities/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Entities/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orientacaoobjetos/exercise1/Entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/BusinessAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heranca/UpcastingDowncasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/BrazilTaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/TaxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tratamentodeerro/TryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_write/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivoswrite/Write.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_write/teste.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/manipular_pastas/ManipularPastas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/manipularpastas/ManipularPastas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquivos/manipular_pastas/PegarInformacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/manipularpastas/PegarInformacoes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -42,20 +55,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ffdin/IdeaProjects/EstudosEmJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ffdin/IdeaProjects/EstudosEmJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +83,10 @@
       <workItem from="1671150603696" duration="1223000" />
       <workItem from="1672084500110" duration="10989000" />
       <workItem from="1672184301555" duration="6100000" />
-      <workItem from="1672248818029" duration="18632000" />
+      <workItem from="1672248818029" duration="19138000" />
+      <workItem from="1672438258780" duration="8562000" />
+      <workItem from="1672451168861" duration="128000" />
+      <workItem from="1672709539855" duration="5941000" />
     </task>
     <servers />
   </component>

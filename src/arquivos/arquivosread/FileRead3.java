@@ -1,4 +1,4 @@
-package arquivos.arquivos_read;
+package arquivos.arquivosread;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
