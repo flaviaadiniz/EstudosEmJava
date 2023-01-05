@@ -5,27 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9db1c70-75a6-4385-9675-c3b0ba87d9f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/heranca/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/BusinessAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heranca/UpcastingDowncasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/RentalService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/carrental/model/services/TaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tratamentodeerro/TryCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CalculationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/CalculationServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/PrintService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generics/PrintServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/comparable/cominterface/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/comparable/cominterface/ProgramWithComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/comparable/cominterface/in2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/comparable/seminterface/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/comparable/seminterface/in.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_read/FileRead3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivosread/FileRead3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_write/Write.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/arquivoswrite/Write.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/arquivos_write/teste.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/manipular_pastas/ManipularPastas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/manipularpastas/ManipularPastas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arquivos/manipular_pastas/PegarInformacoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquivos/manipularpastas/PegarInformacoes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -70,6 +59,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ffdin\IdeaProjects\EstudosEmJava\src\interfaces\comparable\cominterface" />
+      <recent name="C:\Users\ffdin\IdeaProjects\EstudosEmJava\src\interfaces\comparable\seminterface" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -86,7 +81,7 @@
       <workItem from="1672248818029" duration="19138000" />
       <workItem from="1672438258780" duration="8562000" />
       <workItem from="1672451168861" duration="128000" />
-      <workItem from="1672709539855" duration="5941000" />
+      <workItem from="1672709539855" duration="11964000" />
     </task>
     <servers />
   </component>
